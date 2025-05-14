@@ -9,24 +9,19 @@
 
 ```console
 ❯ neofetch
-                   -`                     
-                  .o+`                    
-                 `ooo/                      USER: wolflix
-                `+oooo:                  ┌───────────────────────────────┐
-               `+oooooo:                   OS: Windows_x64 
-               -+oooooo+:                  Kernel: 6.6.28-1-lts 
-             `/:-:++oooo+:                 Packages: 1638 (pacman) 
-            `/++++/+++++++:                Shell: fish 3.7.1 
-           `/++++++++++++++:               WM: Hyprland 
-          `/+++ooooooooooooo/`             Terminal: kitty
-        .oossssso-````/ossssss+`           Occupation: -
-       -osssssso.      :ssssssso.          Language: Python
-      :osssssss/        osssso+++.         Editor: VSCode
-     /ossssssss/        +ssssooo/-       └───────────────────────────────┘ 
-   `/ossssso+/:-        -:/+osssso+-            ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ 
-  `+sso+:-`                 `.-/+oso:    
- `++:.                           `-/+/     
- .`                                 `/
+⠀⠀⠀⠀⠀⠀⠀⣀⠤⠤⠖⠒⠒⠒⠤⣀                             USER: wolflix
+⣀⣀⣀⡠⠔⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⢤                      ┌───────────────────────────────┐
+⠀⠉⢒⠀⠀⢀⣦⠖⡟⣠⠋⢦⠀⡀⠀⠀⠀⣀⠀⠈⣄                      OS: Windows_x64
+⠀⣴⠁⠀⣴⠁⠀⠀⠁⠀⠀⠀⠉⠈⣤⡀⠀⣿⠀⢳⡄⡄                     Kernel: 6.6.28-1-lts
+⢣⢣⠀⣼⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢳⣿⠀⢸⣾⣿⠁⢹            ⠀⠀⠀⠀⠀⠀⠀⠀Packages: 1638 (pacman)
+⠀⢸⢴⢙⣠⡖⡲⡀⠀⠀⠀⢀⠴⡶⣌⢸⠀⠀⡏⠀⠀⡆                ⠀⠀⠀⠀Shell: fish 3.7.1
+⠀⡞⠀⡃⢹⣿⣻⠈⠀⠀⠀⠋⢺⡫⢷⢻⠀⠀⡇⠀⠀⢸                     WM: Hyprland
+⠀⡇⠀⠇⠸⣝⡿⠀⠀⠀⠀⠈⣬⣿⣾⢸⠀⠀⡇⠀⠀⠀⢸                    Terminal: kitty
+⢀⠀⣯⠀⠀⠀⠀⠀⣀⣀⠄⠀⠀⠁⠀⡾⣹⠄⡇⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Occupation: -
+⢸⠀⠀⣦⣾⣿⣦⣴⣾⣦⣴⣾⣷⣄⡤⡇⠀⠀⡇⠀⠀⠀⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    Language: Python
+⡜⠀⠀⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠁⠀⢀⡿⠀⠀⠀⠘⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Editor: VSCode
+⡇⠀⠀⠀⡟⠁⠈⠛⠁⠈⠚⠉⠀⠈⠏⠀⠀⡼⠀⠀⠀⠀⠀⠀⢱              └───────────────────────────────┘
+⢳⠀⠀⢀⠃⠀⠀⢸⣿⣷⠀⠀⠀⢰⠀⠀⣰⢷⠀⠀⠀⠀⠀⠀⣸                      ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ ⬤ 
 ```
 
 <!--<h2 align="center">Skills</h2>
