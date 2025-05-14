@@ -1,4 +1,4 @@
-<h1> <img src="https://cdn.jsdelivr.net/gh/JeffreyBool/githubmemory-cdn@26.0/images/mona-loading-default.gif" height="50"/> こんにちは(Kon'nichiwa)🙏🏻!</h1>
+<h1> <img src="https://cdn.jsdelivr.net/gh/JeffreyBool/githubmemory-cdn@26.0/images/mona-loading-default.gif" height="50"/> こんにちは!</h1>
 
 <!-- <a href="https://discord.com/users/397414803473170432" > -->
 ### <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="50" /> A little more about me...  
