@@ -4,8 +4,7 @@
 ### <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="50" /> A little more about me...  
 
 ```console
-~
-> whoami🤍
+~> whoami🤍
 ```
 
 ```console
